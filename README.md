@@ -42,3 +42,20 @@ We use:
 ```python
 from gymnasium.vector import AsyncVectorEnv
 ```
+
+### Results:
+1. DDQN:
+
+https://github.com/user-attachments/assets/c5ea4368-ae02-4552-8ec1-67a0eb99fabd
+
+2. DDQN_Vec
+
+https://github.com/user-attachments/assets/3db09f75-4c79-420e-bb54-a6143b8b2978
+
+3. DQN
+
+https://github.com/user-attachments/assets/818a5c4a-b98f-4026-87e2-b8c98fb87f71
+
+4. DQN_Vec
+
+https://github.com/user-attachments/assets/506195d0-3f7e-45a1-990a-492835397d8d
